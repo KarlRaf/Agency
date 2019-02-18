@@ -254,7 +254,7 @@ p {
 
 .about-photo {
   height: 600px;
-  background-image: url('../images/cosmo.jpeg');
+  background-image: url('../images/logo.jpeg');
   background-position: 50% 50%;
   background-size: cover;
 }
